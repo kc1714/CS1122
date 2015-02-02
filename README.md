@@ -1,4 +1,4 @@
-### CS1122
+# CS1122
 ## This is the intro. 
-# My First Repository on GitHub.
+### My First Repository on GitHub.
 
